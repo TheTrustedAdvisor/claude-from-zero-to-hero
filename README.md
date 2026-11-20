@@ -11,6 +11,7 @@ Each part has one folder. Open its `README.md`, do the task in your own Claude a
 | Part | Folder | Plan |
 |---|---|---|
 | 0 Claude for beginners: what it is and your first useful chat | [00-first-chat](00-first-chat) | Free |
+| 1 How to prompt Claude: give it the job, not just the question | [01-prompt](01-prompt) | Free |
 
 More parts follow as the videos come out.
 

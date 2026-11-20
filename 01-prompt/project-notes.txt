@@ -1,0 +1,16 @@
+Project sync "Customer portal", Thursday 12 November 2026, 14:00 to 14:50
+Present: Mia Graf (project lead), Jonas Weber (development), Elena Costa (marketing), Peter Steiner (finance)
+
+Mia started with the status. Development is two weeks behind because the payment provider changed its test environment. Jonas thinks they can catch up one week, not two.
+
+Launch date. Long back and forth. Marketing has booked the newsletter for 1 December. Jonas does not want to launch without the payment tests. Decided: launch moves to Monday 14 December. Elena tells the newsletter agency by 18 November.
+
+Budget. Peter reported that the external testers cost CHF 4,500 more than planned. Mia asked whether we can drop the second test round. Nobody liked that. Decided: the extra CHF 4,500 is approved from the contingency. Peter books it by 20 November.
+
+Somebody asked about a dark mode. Nice idea, not for this release.
+
+Support. Jonas suggested a chat widget on the portal. Elena said the support team is not staffed for it yet. Mia will ask the support lead what it would take, answer by next sync. Not decided.
+
+Training. The help desk needs to know the portal before launch. Decided: two training sessions for the help desk, Jonas runs them, both done by 10 December.
+
+Peter will send the updated cost sheet to everyone. Next sync: Thursday 19 November, 14:00.
