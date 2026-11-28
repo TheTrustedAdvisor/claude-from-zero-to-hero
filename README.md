@@ -13,6 +13,7 @@ Each part has one folder. Open its `README.md`, do the task in your own Claude a
 | 0 Claude for beginners: what it is and your first useful chat | [00-first-chat](00-first-chat) | Free |
 | 1 How to prompt Claude: give it the job, not just the question | [01-prompt](01-prompt) | Free |
 | 2 Claude with your files: PDFs, spreadsheets and checking the numbers | [02-files](02-files) | Free (step 4: Pro) |
+| 3 Can you trust Claude's answer? Web search, sources and mistakes | [03-sources](03-sources) | Free |
 
 More parts follow as the videos come out.
 
